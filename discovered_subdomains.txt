@@ -1,0 +1,13 @@
+http://www.microsoft.com
+http://admin.microsoft.com
+http://shop.microsoft.com
+http://support.microsoft.com
+http://office.microsoft.com
+http://docs.microsoft.com
+http://download.microsoft.com
+http://payments.microsoft.com
+http://cloud.microsoft.com
+http://login.microsoft.com
+http://portal.microsoft.com
+http://api.microsoft.com
+http://dev.microsoft.com
